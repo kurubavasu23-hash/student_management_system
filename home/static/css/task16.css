@@ -1,0 +1,27 @@
+#a{
+            text-align: center;
+            border-bottom: 50px;
+            margin:10%;
+            height: 150%;
+           background-color: antiquewhite;
+           padding: 10px;
+            
+        }
+        #b{
+            border:none;
+            margin: 10%;
+            border-left: 10px solid blue;
+           
+             
+        
+            background-color: white;
+
+        }
+        #c{
+            padding-right:80%;
+        }#d{
+            padding-right: 150px;
+        }
+        .a{
+            color: blue;
+        }

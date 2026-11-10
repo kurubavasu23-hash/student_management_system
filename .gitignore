@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django local files
+db.sqlite3
+db.sqlite3-*
+*.sqlite3
+media/
+
+# Environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Build and coverage files
+*.log
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
